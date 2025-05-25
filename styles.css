@@ -14,7 +14,7 @@
 body {
     font-family: "Poppins", sans-serif;
     font-weight: 500;
-    background-image: url(img/skyblue.jpg);
+    background-image: url(skyblue.jpg);
     background-color: rgba(255, 255, 255, 0.6);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
